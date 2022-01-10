@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilabh Aditya</h1>
-<h3 align="center">A passionate Front-End developer, and CPer from India.</h3>
+<h3 align="center">A passionate Web developer, and CPer from India.</h3>
 
 - 🌱 I’m currently learning **Node.js and Express.js**
 
