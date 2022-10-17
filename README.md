@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilabh Aditya</h1>
 <h3 align="center">A passionate Web developer, and CPer from India.</h3>
 
-- 🌱 I’m currently learning **Node.js and Express.js**
+- 🌱 I’m currently learning **React & Spring**
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Nilabh-Aditya-Sinha](https://www.quora.com/profile/Nilabh-Aditya-Sinha)
 
