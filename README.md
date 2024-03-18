@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nilabh Aditya</h1>
 <h3 align="center">A passionate Web developer, and CPer from India.</h3>
 
-- 🌱 I’m currently learning **React & Spring**
+- 🌱 I’m currently working on  **MERN AND JAVA FULL STACK**
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Nilabh-Aditya-Sinha](https://www.quora.com/profile/Nilabh-Aditya-Sinha)
 
-- 💬 Ask me about **C++, HTML,CSS,BOOTSTRAP4,JAVASCRIPT,JQUERY.**
+- 💬 Ask me about **C++, HTML,CSS,BOOTSTRAP4,JAVASCRIPT,JQUERY,JAVA,NODE,SQL,SPRINGBOOT**
 
 - 📫 How to reach me **nilabhaditya6@gmail.com**
 
