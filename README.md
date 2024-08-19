@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nilabh Aditya</h1>
-<h3 align="center">A passionate Web developer, and CPer from India.</h3>
+<h3 align="center">A passionate Software Developer(Java), and CPer from India.</h3>
 
 - 🌱 I’m currently working on  **JAVA FULL STACK**
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Nilabh-Aditya-Sinha](https://www.quora.com/profile/Nilabh-Aditya-Sinha)
 
-- 💬 Ask me about **C++, HTML,CSS,BOOTSTRAP4,JAVASCRIPT,JQUERY,JAVA,SQL,SPRINGBOOT**
+- 💬 Ask me about **Data Structures, Algorithms, Java, Springboot, SQL, System Design, JavaScript, Microservices, Kafka, Git**
 
 - 📫 How to reach me **nilabhaditya6@gmail.com**
 
